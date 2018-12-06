@@ -1,0 +1,6 @@
+projectKey=JunitDemo
+serverUrl=http://localhost:8085
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:8085/dashboard/index/JunitDemo
+ceTaskId=AWdezmR_FpUO1Yo799gW
+ceTaskUrl=http://localhost:8085/api/ce/task?id=AWdezmR_FpUO1Yo799gW

@@ -1,0 +1,6 @@
+com\mindtree\junitdemo\AppTest.class
+com\mindtree\entity\AreaTester.class
+com\mindtree\entity\TestAll.class
+com\mindtree\entity\AreaInterface.class
+com\mindtree\entity\Area.class
+com\mindtree\entity\TestRunner.class
